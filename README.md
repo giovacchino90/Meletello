@@ -1,2 +1,2 @@
 # Meletello
-Learning
+Learn
